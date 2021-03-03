@@ -8,3 +8,5 @@ ZCZC W01 20 L01 SCELE related
 ZCZC W01 100 L02 ZOOM related
 ZCZC W01 60 L11 Assignment #1 Install Debian
 ZCZC W01 30 L05 GSGS related
+ZCZC W01 100 L12 Assignment #2 Read and try https://ubuntu.com/tutorials/command-line-for-beginners
+ZCZC W01 60 L12 Assignment #3 Learn and Try linux command
