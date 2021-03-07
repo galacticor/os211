@@ -14,3 +14,4 @@ ZCZC W01 60 L14 Assigment #4 Add guest and .bash_aliases
 ZCZC W01 60 L15 Assigment #5 clone FASILKOM OS git and try DemoWeek01
 ZCZC W01 05 L16 Assigment #6 Update mylog.txt
 ZCZC W01 30 L17 Assigment #7 add Top 10 list
+ZCZC W01 100 L18 Assigment #8 Bash, regex, awk tutorial
