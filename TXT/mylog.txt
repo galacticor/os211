@@ -29,4 +29,9 @@ ZCZC W03 20 L17 Assignment #7 about W03 tarball
 ZCZC W03 30 L12 Assignment #2 try demo Week03
 ZCZC W03 10 L14 Assignment #4 get top 3 neighbor
 ZCZC W03 05 L13 Assignment #3
-ZCZC W03 60 L15 Assignment #5 create top 10
+ZCZC W03 60 L14 Assignment #4 create top 10
+ZCZC W04 30 L12 Assignment #2 try demo Week04
+ZCZC W04 10 L13 Assignment #3 get top 3 neighbor
+ZCZC W04 100 L02 ZOOM related
+ZCZC W04 20 L01 SCELE related
+ZCZC W04 20 L11 Assignment #1 read OSC-10
