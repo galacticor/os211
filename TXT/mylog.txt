@@ -36,3 +36,9 @@ ZCZC W04 100 L02 ZOOM related
 ZCZC W04 20 L01 SCELE related
 ZCZC W04 20 L11 Assignment #1 read OSC-10
 ZCZC W04 90 L14 Assignment #4 create top 10
+ZCZC W05 30 L12 Assignment #2 try demo Week04
+ZCZC W05 10 L13 Assignment #3 get top 3 neighbor
+ZCZC W05 100 L02 ZOOM related
+ZCZC W05 20 L01 SCELE related
+ZCZC W05 20 L11 Assignment #1 read OSC-10
+ZCZC W05 90 L14 Assignment #4 create top 10
