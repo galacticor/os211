@@ -15,3 +15,10 @@ ZCZC W05 advistasyam
 ZCZC W05 Sasfort
 ZCZC W05 asfiowilma
 ZCZC W05 aryudaokta
+ZCZC W06 advistasyam
+ZCZC W06 Sasfort
+ZCZC W06 asfiowilma
+ZCZC W06 aryudaokta
+ZCZC W06 garyteofanus
+ZCZC W06 gilangcy
+ZCZC W06 GerradND
