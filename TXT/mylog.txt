@@ -55,3 +55,9 @@ ZCZC W07 30 L12 Assignment #2 try demo Week07
 ZCZC W07 90 L14 Assignment #4 create top 10
 ZCZC W07 10 L13 Assignment #3 get top 3 neighbor
 ZCZC W07 20 L01 SCELE related
+ZCZC W08 100 L02 ZOOM related
+ZCZC W08 20 L11 Assignment #1 read OSC-10
+ZCZC W08 90 L14 Assignment #4 create top 10
+ZCZC W08 90 L14 Assignment #4 create top 10
+ZCZC W08 10 L13 Assignment #3 get top 3 neighbor
+ZCZC W08 20 L01 SCELE related
